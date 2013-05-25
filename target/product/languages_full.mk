@@ -76,6 +76,7 @@ PRODUCT_LOCALES := en_US \
  th_TH \
  tl_PH \
  tr_TR \
+ ug_CN \
  uk_UA \
  vi_VN \
  zh_CN \

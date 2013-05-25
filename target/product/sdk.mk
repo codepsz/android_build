@@ -177,6 +177,7 @@ PRODUCT_LOCALES := \
 	tl_PH \
 	tr_TR \
 	uk_UA \
+	ug_CN \
 	vi_VN \
 	zh_CN \
 	zh_TW
